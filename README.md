@@ -62,6 +62,7 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
+- Gaurav Sachdeva, @gauravano (Maintainer, Public Lab)
 
 ----
 
